@@ -1,6 +1,5 @@
-## 📸 # 📷 Screenshot Demo
+# 📸 Screenshot Demo
 
-यह नीचे दिया गया स्क्रीनशॉट है:
+यह नीचे GitHub का एक स्क्रीनशॉट है:
 
-![My Screenshot](Screenshot%202025-04-30%20195232.png)
-
+![Image](https://github.com/user-attachments/assets/9deac93a-72e6-4ba7-96bb-9d459e12b0d2)
